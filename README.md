@@ -1,1 +1,2 @@
 # BlackJack
+This is a black jack game.In this game you are provided with two cards initially.If the sum of cards equal to 21 then you win the lottery else if the sum is less than 21 u get to choose one card for which the sum of all cards if equal to 21..u win else u loose and come out of the game.The game asks the user for initial money(must be greater than a limit) he wants to invest and the number of rounds he wants to play.This is totally luck based game created as a project
